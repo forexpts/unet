@@ -1,0 +1,5 @@
+#pushしたくないファイル一覧 gitでは空のディレクトリは管理できないことに注意
+/data/*
+/checkpoint/*
+/*/__pycache__
+/trainnext.py
